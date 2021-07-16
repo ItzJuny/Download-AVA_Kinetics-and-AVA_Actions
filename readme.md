@@ -18,7 +18,7 @@ https://research.google.com/ava/download.html#ava_actions_download
 
 包含 430 个视频，其中235 个用于训练、64 个用于验证和 131 个用于测试。每个视频有 15 分钟的注释，间隔为 1 秒。
 
-[AVA-Actions(v2.2)数据集下载](https://research.google.com/ava/download/ava_v2.2.zip)，同时我也存放在[source](/AVA-Actions2/source/)文件夹下，下载后会有以下文件：
+[AVA-Actions(v2.2)数据集下载](https://research.google.com/ava/download/ava_v2.2.zip)，同时我也存放在[source](source/)文件夹下，下载后会有以下文件：
 
 `行为类别文件`：
 
@@ -43,7 +43,7 @@ https://research.google.com/ava/download.html#ava_actions_download
 
 包含来自 AVA v2.2 的原始 430 个视频，以及来自[Kinetics-700 数据集的](https://deepmind.com/research/open-source/kinetics)的238k个视频 。
 
-[AVA-Kinetics(v1.0)数据集下载](https://storage.googleapis.com/deepmind-media/Datasets/ava_kinetics_v1_0.tar.gz))，同时我也存放在[source](/AVA-Actions2/source/)文件夹下，下载后会得到以下文件。
+[AVA-Kinetics(v1.0)数据集下载](https://storage.googleapis.com/deepmind-media/Datasets/ava_kinetics_v1_0.tar.gz))，同时我也存放在[source](source/)文件夹下，下载后会得到以下文件。
 
 `行为类别文件`：
 
